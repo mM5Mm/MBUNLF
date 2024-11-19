@@ -1,6 +1,6 @@
-MovieLens 10M: 
-MovieLens 20M: 
-Extended Epinions: 
-Book genome: 
-Flixster: 
-Amazon/Movies and TV: 
+MovieLens 10M: https://grouplens.org/datasets/movielens/ml-10m.zip
+MovieLens 20M: https://grouplens.org/datasets/movielens/ml-20m.zip
+Extended Epinions: https://pan.baidu.com/s/1v1al4bF4tpZpkWlntGa8-w?pwd=f6dr
+Book genome: https://grouplens.org/datasets/book-genome/
+Flixster: https://pan.baidu.com/s/1B4RJ3P4IDuU9OEAraQjxIQ?pwd=emcr
+Amazon/Movies and TV: https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_v2/categoryFiles/Movies_and_TV.json.gz
